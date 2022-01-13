@@ -1,4 +1,6 @@
-# Digit Recognition Neural Network in R 
+# Recognize handwritten digits using Neural Networks in R
+
+Interpreting images has been one of the most sought-after use cases in the field of artificial intelligence. Identification of handwritten digits using neural networks is commonly used in a lot of mobile applications.  
 
 In this tutorial, we will learn how to create a Web Application to recognize handwritten digits using Neural Networks on R in Watson Studio. For this tutorial, we will be utilizing MNIST database which is the large database of handwritten digits commonly used in Machine Learning.
 
@@ -43,7 +45,7 @@ It should take you approximately 45 minutes to complete this tutorial.
 1. Click on **New Folder** icon on under **Files** on the Right-hand side bottom.
 ![](images/createnewfolder.png)
 2. Open the newly created folder and upload the zip folder of the GitHub Repository from the following URL. <br/>
-`Insert Public GitHub Repository Link`
+`https://github.com/mridulrb/Recognize-handwritten-digits-using-Neural-Networks-in-R`
 ![](images/uploadfilestoRStudio.png)
 ![](images/uploadzipfolder.png)
 3. Click on **More** and select **Set As Working Directory**.
